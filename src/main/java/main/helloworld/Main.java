@@ -110,7 +110,26 @@ public class Main {
         for (String i : robneMarke){
             System.out.println(i);
         }
-         */   
+         */
+       
+       /*
+       Scanner input = new Scanner(System.in);
+       System.out.print("Unesite koliko redova zelite da ima vasa jelka: ");
+        int cTree = input.nextInt();
+        input.close();
+        
+        
+        for (int i = 0; i < cTree; i++) {
+           for (int j = 0; j < cTree - i; j++) 
+                System.out.print(" ");
+            
+                for (int k = 0; k < (2 * i + 1); k++) 
+                    System.out.print("*");
+                    System.out.println();
+                } 
+                */
+            
+        }
         
         
         
@@ -124,4 +143,4 @@ public class Main {
         
         }
     
-    }
+    
