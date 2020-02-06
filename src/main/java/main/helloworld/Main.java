@@ -105,6 +105,13 @@ public class Main {
                 break;
            
         } */
+       /*
+        String[] robneMarke = {"Nike", "Adidas", "Reebok", "UnderArmour" };
+        for (String i : robneMarke){
+            System.out.println(i);
+        }
+         */   
+        
         
         
         
